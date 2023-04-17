@@ -3,12 +3,12 @@
 ## Table of contents
 
 - Learning Outcomes
-  - [Outcome 1: Professional duties](#)
-  - [Outcome 2: Situation-orientation](#)
-  - [Outcome 3: Future-Oriented Organisation](#)
-  - [Outcome 4: Investigative Problem Solving](#)
-  - [Outcome 5: Personal Leadership](#)
-  - [Outcome 6: Targeted Interaction](#)
+  - [Outcome 1: Professional duties](##outcome-1-you-carry-out-the-professional-duties-on-a-junior-bachelor-level-resulting-in-professional-products-in-line-with-the-it-area-you-are-working-in)
+  - [Outcome 2: Situation-orientation](#outcome-2-you-apply-your-previously-acquired-knowledge-and-skills-in-an-authentic-context-to-deliver-relevant-results-for-the-project-and-company)
+  - [Outcome 3: Future-Oriented Organisation](#outcome-3-you-explore-the-organisational-context-of-your-project-make-business-sustainable-and-ethical-considerations-and-manage-all-aspects-of-the-execution-of-the-project)
+  - [Outcome 4: Investigative Problem Solving](#outcome-4-you-take-a-critical-look-at-your-project-from-different-perspectives-identify-problems-find-an-effective-approach-and-arrive-at-appropriate-solutions)
+  - [Outcome 5: Personal Leadership](#outcome-5-you-are-entrepreneurial-around-your-projects-and-personal-development-you-pay-attention-to-your-own-learning-ability-and-keep-in-mind-what-kind-of-it-professional-andor-what-type-of-positions-you-aspire-to)
+  - [Outcome 6: Targeted Interaction](#outcome-6-you-determine-which-partners-play-a-role-in-your-project-collaborate-constructively-with-them-and-communicate-appropriately-to-achieve-the-desired-impact)
 
 ## Learning Outcomes 
 
